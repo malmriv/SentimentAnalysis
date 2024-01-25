@@ -3,6 +3,7 @@ This is a very rough approximation at preforming a sentiment analysis on works o
 
 As an example, this is what the plot of Dracula looks like:
 
-<img src="https://github.com/malmriv/SentimentAnalysis/blob/main/images/Captura%20de%20pantalla%202024-01-25%20a%20las%2014.09.41.png" alt="Dracula Sentiment Analysis" width="60%""/>
+![asdf](https://github.com/malmriv/SentimentAnalysis/blob/main/images/Captura%20de%20pantalla%202024-01-25%20a%20las%2014.09.41.png?raw=true)
+
 
 
